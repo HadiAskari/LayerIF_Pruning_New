@@ -1,4 +1,4 @@
-name: alphapruning_test_haiquan
+name: alphapruning_test
 channels:
   - defaults
 dependencies:
@@ -147,4 +147,4 @@ dependencies:
       - yarl==1.18.3
       - zipp==3.21.0
       - zstandard==0.23.0
-prefix: /home/haskari/miniconda3/envs/alphapruning_test_haiquan
+prefix: /home/haskari/miniconda3/envs/alphapruning_test

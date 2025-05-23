@@ -45,4 +45,4 @@ We provide a quick overview of the arguments:
 **To prune other LLMs, you can change the "model" argument in the script.**
 
 **You can add data for different methods on the data folder. For OWL we computed the pruning ratio from their repository and added the ratios here manually**
-# Expert_Allocation
+
